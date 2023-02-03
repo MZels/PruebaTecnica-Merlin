@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Toby",
+        "category": {
+            "id": 51,
+            "name": "dogs"
+        },
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 2,
+        "name": "Rocky",
+        "category": {
+            "id": 52,
+            "name": "cats"
+        },
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 3,
+        "name": "Freddy",
+        "category": {
+            "id": 53,
+            "name": "turtles"
+        },
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+    "id": 4,
+    "name": "Toby",
+    "category": {
+        "id": 51,
+        "name": "dogs"
+    },
+    "photoUrls": [
+        "string"
+    ],
+    "tags": [
+        {
+            "id": 0,
+            "name": "string"
+        }
+    ],
+    "status": "sold"
+    },
+    {
+        "id": 5,
+        "name": "Rocky",
+        "category": {
+            "id": 52,
+            "name": "cats"
+        },
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "sold"
+    },
+    {
+        "id": 6,
+        "name": "Freddy",
+        "category": {
+            "id": 53,
+            "name": "turtles"
+        },
+        "photoUrls": [
+            "string"
+        ],
+        "tags": [
+            {
+                "id": 0,
+                "name": "string"
+            }
+        ],
+        "status": "sold"
+    }
+]

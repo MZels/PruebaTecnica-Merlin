@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "username": "Miguel",
+    "firstName": "Núñez",
+    "lastName": "Zels",
+    "email": "miguelzels.mz@gmail.com",
+    "password": "PassPruebaTécnica123!",
+    "phone": "666112233",
+    "userStatus": 1
+}
