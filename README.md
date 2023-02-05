@@ -58,6 +58,16 @@ Antes la ejecución de este proyecto es necesario instalar las siguientes herram
    
 7. Seleccionar el que se desea ejecutar (Cypress ejecutará las prueba de ese Spec en el navegador seleccionado)
 
+## Detalles de la implementación y sus Outputs
+
+En el Ejercicio 2:
+    * El resultado de la búsqueda del año en que se hizo el primer proceso automático se mostrará en el log de Cypress. 
+    * La captura de pantalla de la página de wikipedia se guardará en la carpeta por defecto "cypress/screenshots/" con el nombre "Captura_wikipedia.png", sobreescribiendo si existe, la captura con el mismo nombre.
+
+En el ejercicio 3:
+    * Se ha escrito el test extra "Añadir mascotas" que añade algunas mascotas con estado "sold" a la BD. 
+    * El resultado del apartado 2 (lista de mascotas vendidas en formato tupla) se guarda en el fichero /cypress/downloads/soldPets.json
+    * El resultado del apartado 3 (lista de con el mismo nombre {"nombre": cantidad}) se guarda en el fichero /cypress/downloads/duplicatedNames.json
 
 ## Autor
 
